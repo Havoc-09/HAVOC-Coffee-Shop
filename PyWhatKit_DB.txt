@@ -1,0 +1,40 @@
+Date: 4/7/2025
+Time: 17:36
+Phone Number: +919999999999
+Message: Order ID: 9927ea3e - Total: ₹200
+--------------------
+Date: 4/7/2025
+Time: 17:45
+Phone Number: +919999999999
+Message: Order ID: 93582b5d - Total: ₹350
+--------------------
+Date: 4/7/2025
+Time: 17:51
+Phone Number: +919999999999
+Message: Order ID: 35a369fb - Total: ₹200
+--------------------
+Date: 4/7/2025
+Time: 18:0
+Phone Number: +916358816587
+Message: Order ID: 5ed16029 - Total: ₹170
+--------------------
+Date: 4/7/2025
+Time: 18:53
+Phone Number: +916358816587
+Message: HAVOC Coffee Order ID: 93dc000eTotal: ₹100Thank you for ordering!
+--------------------
+Date: 4/7/2025
+Time: 19:0
+Phone Number: +919099862701
+Message: HAVOC Coffee Order ID: e528c843Total: ₹170Thank you for ordering!
+--------------------
+Date: 4/7/2025
+Time: 19:5
+Phone Number: +919925616587
+Message: HAVOC Coffee Order ID: 49da0a94Total: ₹340Thank you for ordering!
+--------------------
+Date: 4/7/2025
+Time: 19:14
+Phone Number: +916358816587
+Message: HAVOC Coffee Order ID: 4084a015Total: ₹150Thank you for ordering!
+--------------------
