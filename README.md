@@ -49,6 +49,7 @@ Thank you for visiting Havoc!
       Required Python libraries: fpdf, tkinter, pywhatkit
 
 🤝 Credits
+
 Developed by Havoc-09
 
-Special thanks to ChatGPT fro being my amazing coding buddy and suggesting me creative ideas
+Special thanks to ChatGPT for being my amazing coding buddy and suggesting me creative ideas
