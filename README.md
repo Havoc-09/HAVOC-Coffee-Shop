@@ -16,3 +16,37 @@ This project is developed to simulate a modern digital coffee shop experience �
 - 🧠 Smart order handling with item codes and price mapping
 - 🔢 Supports dynamic menu customization
 - 🐍 Fully written in Python
+
+🛠️ Technologies Used
+
+- Python 3
+- tkinter (GUI)
+- fpdf (PDF generation)
+- pywhatkit (WhatsApp automation)
+- datetime, os, and other Python modules
+
+🧾 Sample Receipt
+
+Receipt for Order
+Item: Cappuccino
+Quantity: 2
+Total: ₹300
+Date: 04/07/2025
+Time: 5:32 PM
+Thank you for visiting Havoc!
+
+📂 Folder Structure
+
+havoc-coffee-shop/
+├── assets/
+│ └── logo.png
+├── receipts/
+│ └── <order>.pdf
+├── main.py
+├── gui.py
+├── dashboard.py
+├── whatsapp.py
+├── receipt_generator.py
+├── .gitignore
+├── README.md
+└── requirements.txt
