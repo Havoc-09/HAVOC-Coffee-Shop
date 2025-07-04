@@ -1,10 +1,11 @@
 ☕ HAVOC Coffee Shop Project
 
-A fully functional Python-based Coffee Shop Ordering System with a graphical user interface (GUI), PDF receipt generation, admin sales dashboard, and WhatsApp/Email order confirmations.
+Welcome to **HAVOC Coffee Shop**, a fun and fully functional Python project that brings the digital café experience to life! From ordering coffee to generating receipts and sending WhatsApp confirmations — everything is automated and GUI-based.
 
-This project is developed to simulate a modern digital coffee shop experience — designed to help users place orders with ease while providing the admin with powerful sales insights.
+This project started as a passion experiment to explore Python in real-world scenarios — and eventually turned into a cool little system that simulates an actual coffee shop. Whether you're an admin tracking sales or a customer ordering a cappuccino, this app's got you covered.
+(This is basic and more advancments can be done in it)
 
----
+
 
 ## 🚀 Features
 
@@ -35,18 +36,19 @@ Date: 04/07/2025
 Time: 5:32 PM
 Thank you for visiting Havoc!
 
-📂 Folder Structure
+## Install the required libraries:
+    pip install -r requirements.txt
+    
+## Run the project:
+    python main.py
 
-havoc-coffee-shop/
-├── assets/
-│ └── logo.png
-├── receipts/
-│ └── <order>.pdf
-├── main.py
-├── gui.py
-├── dashboard.py
-├── whatsapp.py
-├── receipt_generator.py
-├── .gitignore
-├── README.md
-└── requirements.txt
+⚙️ Requirements
+
+      Python 3.8 or later  
+      Internet connection (for WhatsApp feature)
+      Required Python libraries: fpdf, tkinter, pywhatkit
+
+🤝 Credits
+Developed by Havoc-09
+
+Special thanks to ChatGPT fro being my amazing coding buddy and suggesting me creative ideas
