@@ -26,16 +26,17 @@ Welcome to HAVOC Coffee Shop — a Python-based coffee ordering system that comb
 📁 PROJECT STRUCTURE
 ---------------------------
 HAVOC-Coffee-Shop/
-├── app.py
-├── menu.py
-├── order.py
-├── receipt_generator.py
-├── gui_app.py
-├── dashboard.py
-├── receipts/
-├── database/
-├── requirements.txt
-└── README.txt
+├── app.py                   
+├── menu.py               
+├── order.py               
+├── receipt_generator.py   
+├── gui_app.py              
+├── dashboard.py          
+├── receipts/            
+├── database/           
+├── README.md             
+└── requirements.txt      
+
 
 ---------------------------
 ⚙️ HOW TO SETUP
