@@ -64,11 +64,11 @@ HAVOC-Coffee-Shop/
 ✍️ CREDITS
 ---------------------------
 
-Developed by: Rohan Nair
+Developed by: Rohan Nair                          
 Coding Partner: Chatgpt
 
 This project was made for learning and practical implementation of Python skills in real-world apps.
-vh
+
 
 ---------------------------
 📬 FEEDBACK
