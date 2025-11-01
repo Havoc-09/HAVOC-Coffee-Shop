@@ -68,6 +68,7 @@ Developed by: Rohan Nair
 
 This project was made for learning and practical implementation of Python skills in real-world apps.
 
+CODING PARTNER: Chatgpt
 ---------------------------
 📬 FEEDBACK
 ---------------------------
